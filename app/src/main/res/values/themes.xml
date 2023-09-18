@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Laboratorio2" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorSecondary">@color/md_theme_light_secondary</item>
+        <item name="colorSurfaceInverse">@color/md_theme_light_inverseSurface</item>
+        <item name="colorPrimary">#006783</item>
+        <item name="colorOnPrimary">#ffffff</item>
+        <item name="colorPrimaryContainer">#bce9ff</item>
+        <item name="colorOnPrimaryContainer">#001f2a</item>
+        <item name="colorPrimaryInverse">@color/md_theme_light_inversePrimary</item>
+    </style>
+
+    <style name="Theme.Laboratorio2" parent="Base.Theme.Laboratorio2" />
+</resources>
